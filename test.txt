@@ -1,3 +1,4 @@
 This is change 1
 Bob
 Bob's branch. Commit 1. Change2.
+Alice's branch. Commit 1. Change 3.
